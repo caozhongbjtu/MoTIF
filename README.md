@@ -19,3 +19,6 @@ The script_forecast.sh file contains all running commands. You can directly exec
 ```bash
 sh train.sh
 ```
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
